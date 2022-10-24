@@ -4,6 +4,6 @@
   xmlns:jpa="http://www.springframework.org/schema/data/jpa"
   xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
     http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd version="2.2">
-<persistence-unit name=""></persistence-unit>                                                                             
+<persistence-unit name="NombreDeLaTabla"></persistence-unit>                                                                             
 
 </persistence>
